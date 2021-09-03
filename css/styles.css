@@ -117,11 +117,13 @@ a:hover {
 .card1:hover {
 	background: #01bbf0	;
 	border: 1px solid #01bbf0;
+	color: white;
 }
 
 .card2:hover {
 	background: #db271c;
 	border: 1px solid #db271c;
+	color: white;
 }
 
 .card3:hover {
@@ -133,11 +135,13 @@ a:hover {
 .card4:hover {
 	background: #f58131;
 	border: 1px solid #f58131;
+	color: white;
 }
 
 .card5:hover {
 	background: #b8d533;
 	border: 1px solid #b8d533;
+	color: white;
 }
 
 .card6:hover {
@@ -148,8 +152,8 @@ a:hover {
 .card:hover .btn-outline-dark {
 	color: white;
 	background: #212529;
+	
 }
-
 
 .header {
 	position: relative;
@@ -274,6 +278,7 @@ a:hover {
 .basic-3 {
 	padding-top: 9rem;
 	padding-bottom: 4.25rem;
+	
 }
 
 .basic-3 .image-container {
@@ -292,8 +297,6 @@ a:hover {
 .basic-3 .list-unstyled .media-body {
 	margin-left: 0.5rem;
 }
-
-
 
 .footer {
 	padding-top: 5.5rem;
